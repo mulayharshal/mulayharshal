@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 👨‍💻 I’m Harshal Mulay, a passionate Full Stack Developer.
-- 🎓 Currently pursuing B.E. in Information Technology (Lateral Entry).
+- 🎓 Currently pursuing B.E. in Information Technology .
 - 🛠️ Tech Stack: `Java`, `Spring Boot`, `MySQL`, `React`, `Angular`, `Node.js`, `Express`, `Firebase`.
 - 🌐 I love building **web apps**, **REST APIs**, and **mobile-ready UIs**.
 - 🧠 Learning: `DevOps`, `Docker`, `System Design`.
