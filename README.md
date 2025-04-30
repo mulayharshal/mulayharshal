@@ -48,7 +48,7 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: [mulayharshal01@gmail.com](mailto:harshalmulay1039@gmail.com)
+- 📧 Email: [harshalmulay1039@gmail.com](mailto:harshalmulay1039@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/mulayharshal](https://www.linkedin.com/in/mulayharshal/)
 - 🌐 Portfolio: [Personal Portfolio](https://mulayharshal.github.io/portfolio/)
 
