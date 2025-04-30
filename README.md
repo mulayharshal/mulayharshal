@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mulayharshal&show_icons=true&theme=radical" alt="Harshal's GitHub stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=mulayharshal&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulayharshal&theme=radical" alt="GitHub Streak" width="49%" />
 </p>
 
 ---
