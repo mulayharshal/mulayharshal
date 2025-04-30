@@ -26,24 +26,31 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mulayharshal&show_icons=true&theme=radical" alt="Harshal's GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=mulayharshal&theme=radical" alt="GitHub Streak" width="49%" />
+  
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-- 🎓 **HM Notes Bot** - A Telegram bot to manage notes and resources. [🔗 Try it out](https://t.me/HMNotes_bot)
-- 📲 **WhatsApp Status Downloader** - Android app to download statuses from WhatsApp & WhatsApp Business.
+- ☀️ **Basic Weather Web App**  
+  A simple web app that fetches and displays weather information using a public weather API.
+
+- 🎂 **Age Calculator**  
+  A neat tool to calculate your exact age in years, months, and days based on your date of birth.
+
+- 🌐 **Personal Portfolio Website**  
+  A responsive portfolio site to showcase my skills, projects, and contact information.
+  
 - 📝 **Online Exam Portal** - Full-stack project using Angular + Spring Boot + MySQL (In Progress).
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: [mulayharshal01@gmail.com](mailto:mulayharshal01@gmail.com)
+- 📧 Email: [mulayharshal01@gmail.com](mailto:harshalmulay1039@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/mulayharshal](https://www.linkedin.com/in/mulayharshal/)
-- 🌐 Portfolio: *(coming soon)*
+- 🌐 Portfolio: [Personal Portfolio](https://mulayharshal.github.io/portfolio/)
 
 ---
 
